@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aseel-qazqzy
+- 👋 Hi, I’m @aseel Ahmed Al-qazqzy
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently doing my Master in Data Analytics
 - 📫 How to reach me via email alqazqzy.asseel@gmail.com
