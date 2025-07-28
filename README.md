@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @aseel Ahmed Al-qazqzy
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently doing my Master in Data Analytics
-- 📫 How to reach me via email alqazqzy.asseel@gmail.com
+# Hi there! 👋 I'm Aseel Al-Qazqzy
 
-<!---
-aseel-qazqzy/aseel-qazqzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Data Analytics @ University of Hildesheim  
+💼 Data Engineering Enthusiast  
+🏦 Banking Domain Expertise  
+📊 SAS Certified Professional  
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-1E6091?style=flat&logo=sas&logoColor=white)
+
+## 🚀 Featured Projects
+📊 [Financial Fraud Detection Pipeline](#)  
+🔄 [Real-time Data Streaming Platform](#)  
+🏗️ [Modern Data Warehouse Solution](#)  
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
