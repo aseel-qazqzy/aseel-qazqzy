@@ -16,4 +16,4 @@
 🏗️ [Modern Data Warehouse Solution](#)  
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aseel-qazqzy&show_icons=true&theme=radical)
