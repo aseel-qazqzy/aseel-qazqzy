@@ -11,6 +11,7 @@
 ![SAS](https://img.shields.io/badge/-SAS-1E6091?style=flat&logo=sas&logoColor=white)
 
 ## 🚀 Featured Projects
+🏗️ [Curriculum-Style Augmentation for Image Classification](https://github.com/aseel-qazqzy/curriculum-augmentation)
 📊 [Financial Fraud Detection Pipeline](#)  
 🔄 [Real-time Data Streaming Platform](#)  
 🏗️ [Modern Data Warehouse Solution](#)  
