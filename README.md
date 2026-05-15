@@ -69,16 +69,6 @@ Data Engineer with hands-on experience in the banking domain and a strong academ
 > Scalable warehouse with dimensional modelling, automated ELT pipelines, data quality checks, and BI-ready data marts.  
 > `dbt` `SQL` `Apache Airflow`
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aseel-qazqzy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aseel-qazqzy&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
